@@ -7,7 +7,7 @@ This project is a hands-on machine learning notebook where I explore and build a
 - Perform preprocessing and feature selection.
 - Build and evaluate a classification model.
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - Python
 - Pandas
 - Seaborn
